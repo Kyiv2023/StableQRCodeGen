@@ -1,4 +1,4 @@
-# StableQRCodeGen
+# [StableQRCodeGen](https://github.com/Kyiv2023/StableQRCodeGen)
 
 ![1](https://preview.redd.it/2xvbatqtq74b1.png?width=960&crop=smart&auto=webp&v=enabled&s=703194127596de7aefa18c6e89e16a50cd0a947a)
 
